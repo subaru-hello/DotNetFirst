@@ -1,0 +1,15 @@
+/Users/subaru/dev/DotNetFirst/bin/Debug/net6.0/DotNetFirst
+/Users/subaru/dev/DotNetFirst/bin/Debug/net6.0/DotNetFirst.deps.json
+/Users/subaru/dev/DotNetFirst/bin/Debug/net6.0/DotNetFirst.runtimeconfig.json
+/Users/subaru/dev/DotNetFirst/bin/Debug/net6.0/DotNetFirst.dll
+/Users/subaru/dev/DotNetFirst/bin/Debug/net6.0/DotNetFirst.pdb
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.csproj.AssemblyReference.cache
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.AssemblyInfoInputs.cache
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.AssemblyInfo.cs
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.csproj.CoreCompileInputs.cache
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.dll
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/refint/DotNetFirst.dll
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.pdb
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/DotNetFirst.genruntimeconfig.cache
+/Users/subaru/dev/DotNetFirst/obj/Debug/net6.0/ref/DotNetFirst.dll
